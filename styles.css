@@ -4,11 +4,10 @@ body{
 }
 header{
 	background-color: #011e29;
-	height: 80px;
+	height: 40px;
 	color: white;
-	display: flex;
-	align-items: start;
-	justify-content: center;
+	text-align: center;
+	padding: 20px;
 }
 .container{
 	margin: auto;
