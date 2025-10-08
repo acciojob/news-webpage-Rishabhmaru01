@@ -7,7 +7,7 @@ header{
 	height: 80px;
 	color: white;
 	display: flex;
-	align-items: center;
+	align-items: start;
 	justify-content: center;
 }
 .container{
